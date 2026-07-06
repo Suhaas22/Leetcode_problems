@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/Suhaas22/Leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Suhaas22/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Suhaas22/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhaas22/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Suhaas22/Leetcode_problems/tree/master/0146-lru-cache) |
+| [0424-longest-repeating-character-replacement](https://github.com/Suhaas22/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Suhaas22/Leetcode_problems/tree/master/0460-lfu-cache) |
 ## Linked List
 |  |
