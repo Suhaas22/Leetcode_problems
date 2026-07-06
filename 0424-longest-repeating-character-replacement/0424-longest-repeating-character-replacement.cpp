@@ -1,0 +1,28 @@
+class Solution {
+public:
+    int characterReplacement(string s, int k) {
+        vector<int> freq(26, 0);
+
+        int left = 0;
+        int len = 0;
+        int maxfreq = 0;
+        int n = s.size();
+
+        for(int right = 0; right < n; right++) {
+
+            freq[s[right] - 'A']++;
+
+            maxfreq = max(maxfreq, freq[s[right] - 'A']);
+
+            while((right - left + 1) - maxfreq > k) {
+                freq[s[left] - 'A']--;
+                left++;
+            }
+
+            len = max(len, (right - left + 1));
+        }
+
+        return len;
+        
+    }
+};
