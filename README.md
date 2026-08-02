@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suhaas22/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Suhaas22/Leetcode_problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suhaas22/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Suhaas22/Leetcode_problems/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/0994-rotting-oranges) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Suhaas22/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Suhaas22/Leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0126-word-ladder-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
