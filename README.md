@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhaas22/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suhaas22/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suhaas22/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Sorting
 |  |
 | ------- |
