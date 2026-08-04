@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suhaas22/Leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suhaas22/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suhaas22/Leetcode_problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Stack
 |  |
 | ------- |
@@ -372,11 +373,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Suhaas22/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suhaas22/Leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suhaas22/Leetcode_problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Suhaas22/Leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suhaas22/Leetcode_problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -386,8 +389,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suhaas22/Leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suhaas22/Leetcode_problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Suhaas22/Leetcode_problems/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suhaas22/Leetcode_problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
