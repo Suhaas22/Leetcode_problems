@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Suhaas22/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Suhaas22/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Suhaas22/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Suhaas22/Leetcode_problems/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Suhaas22/Leetcode_problems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Suhaas22/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Suhaas22/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Suhaas22/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suhaas22/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [1631-path-with-minimum-effort](https://github.com/Suhaas22/Leetcode_problems/tree/master/1631-path-with-minimum-effort) |
