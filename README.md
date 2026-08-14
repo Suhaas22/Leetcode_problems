@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Suhaas22/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Suhaas22/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Suhaas22/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Suhaas22/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Suhaas22/Leetcode_problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Suhaas22/Leetcode_problems/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suhaas22/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Suhaas22/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Suhaas22/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suhaas22/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Suhaas22/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suhaas22/Leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Suhaas22/Leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suhaas22/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Suhaas22/Leetcode_problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suhaas22/Leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -362,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Suhaas22/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Suhaas22/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -397,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Suhaas22/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suhaas22/Leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [1631-path-with-minimum-effort](https://github.com/Suhaas22/Leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
