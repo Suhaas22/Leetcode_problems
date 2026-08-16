@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suhaas22/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1631-path-with-minimum-effort](https://github.com/Suhaas22/Leetcode_problems/tree/master/1631-path-with-minimum-effort) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Suhaas22/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -513,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Suhaas22/Leetcode_problems/tree/master/1192-critical-connections-in-a-network) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
