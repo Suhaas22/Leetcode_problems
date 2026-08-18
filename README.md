@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Suhaas22/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Suhaas22/Leetcode_problems/tree/master/0733-flood-fill) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Suhaas22/Leetcode_problems/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Suhaas22/Leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Suhaas22/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Suhaas22/Leetcode_problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suhaas22/Leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Suhaas22/Leetcode_problems/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suhaas22/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Suhaas22/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Suhaas22/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Tree
 |  |
@@ -392,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Suhaas22/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Suhaas22/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
