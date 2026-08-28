@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Suhaas22/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Suhaas22/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Suhaas22/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -567,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Suhaas22/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Suhaas22/Leetcode_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
