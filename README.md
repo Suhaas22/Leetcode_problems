@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Suhaas22/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Suhaas22/Leetcode_problems/tree/master/0085-maximal-rectangle) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Suhaas22/Leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Suhaas22/Leetcode_problems/tree/master/0127-word-ladder) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Suhaas22/Leetcode_problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Shortest Path
@@ -578,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/Suhaas22/Leetcode_problems/tree/master/1922-count-good-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
