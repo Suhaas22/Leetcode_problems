@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suhaas22/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suhaas22/Leetcode_problems/tree/master/0085-maximal-rectangle) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0039-combination-sum) |
 | [0126-word-ladder-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Suhaas22/Leetcode_problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Shortest Path
