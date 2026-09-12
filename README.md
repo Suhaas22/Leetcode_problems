@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0079-word-search](https://github.com/Suhaas22/Leetcode_problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suhaas22/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suhaas22/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0090-subsets-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Suhaas22/Leetcode_problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Suhaas22/Leetcode_problems/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Suhaas22/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Suhaas22/Leetcode_problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Suhaas22/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Suhaas22/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Suhaas22/Leetcode_problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0099-recover-binary-search-tree) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Suhaas22/Leetcode_problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0216-combination-sum-iii) |
