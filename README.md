@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Suhaas22/Leetcode_problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Suhaas22/Leetcode_problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suhaas22/Leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suhaas22/Leetcode_problems/tree/master/0085-maximal-rectangle) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Suhaas22/Leetcode_problems/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Suhaas22/Leetcode_problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0126-word-ladder-ii) |
@@ -604,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Suhaas22/Leetcode_problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
