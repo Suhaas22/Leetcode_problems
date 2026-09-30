@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suhaas22/Leetcode_problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Suhaas22/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Suhaas22/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Suhaas22/Leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Suhaas22/Leetcode_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Suhaas22/Leetcode_problems/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Suhaas22/Leetcode_problems/tree/master/1922-count-good-numbers) |
@@ -623,4 +625,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Suhaas22/Leetcode_problems/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Suhaas22/Leetcode_problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
