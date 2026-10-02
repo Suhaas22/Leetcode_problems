@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3941-password-strength](https://github.com/Suhaas22/Leetcode_problems/tree/master/3941-password-strength) |
 ## Greedy
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3941-password-strength](https://github.com/Suhaas22/Leetcode_problems/tree/master/3941-password-strength) |
 ## Linked List
 |  |
 | ------- |
