@@ -6,13 +6,15 @@ public:
 
         int score = 0;
 
+        string expressions = "!@#$";
+
         for(char ch : password) {
             if(seen.count(ch) == 0) {
 
                 if(ch >= 'a' && ch <= 'z') score += 1;
                 else if(ch >= 'A' && ch <= 'Z') score += 2;
                 else if(ch >= '0' && ch <= '9') score += 3;
-                else if(ch == '!' || ch == '@' || ch == '#' || ch == '$') score += 5;
+                else if(expressions.find(ch) != string::npos) score += 5;
                 
             }
 
