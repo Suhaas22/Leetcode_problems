@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Suhaas22/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suhaas22/Leetcode_problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Suhaas22/Leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suhaas22/Leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suhaas22/Leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Suhaas22/Leetcode_problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Shortest Path
 |  |
@@ -664,10 +667,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Suhaas22/Leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
