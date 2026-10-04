@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhaas22/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1048-longest-string-chain](https://github.com/Suhaas22/Leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Suhaas22/Leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suhaas22/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/Suhaas22/Leetcode_problems/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suhaas22/Leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suhaas22/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Suhaas22/Leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Suhaas22/Leetcode_problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Suhaas22/Leetcode_problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Suhaas22/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
+| [1048-longest-string-chain](https://github.com/Suhaas22/Leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3941-password-strength](https://github.com/Suhaas22/Leetcode_problems/tree/master/3941-password-strength) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Suhaas22/Leetcode_problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Suhaas22/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1048-longest-string-chain](https://github.com/Suhaas22/Leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -493,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Suhaas22/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/Suhaas22/Leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
