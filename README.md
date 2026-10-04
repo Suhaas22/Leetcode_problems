@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Suhaas22/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suhaas22/Leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Suhaas22/Leetcode_problems/tree/master/0721-accounts-merge) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Suhaas22/Leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suhaas22/Leetcode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suhaas22/Leetcode_problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -702,4 +704,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
