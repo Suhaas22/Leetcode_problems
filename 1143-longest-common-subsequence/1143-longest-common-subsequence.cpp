@@ -5,7 +5,7 @@ public:
         int n1 = text1.size();
         int n2 = text2.size();
 
-        // dp[i][j] stores the length of LCS upto i, j characters in text1, text 2 respectively
+        // dp[i][j] stores the length of LCS until the first i, j characters in text1, text 2 respectively
 
         vector<vector<int>> dp(n1 + 1, vector<int>(n2 + 1, 0));
 
