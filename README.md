@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Suhaas22/Leetcode_problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0475-heaters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Suhaas22/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0518-coin-change-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/Suhaas22/Leetcode_problems/tree/master/0295-find-median-from-data-stream) |
+| [0475-heaters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suhaas22/Leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/Suhaas22/Leetcode_problems/tree/master/1048-longest-string-chain) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Suhaas22/Leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
+| [0475-heaters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0475-heaters) |
 | [0778-swim-in-rising-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhaas22/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Suhaas22/Leetcode_problems/tree/master/1631-path-with-minimum-effort) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Suhaas22/Leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Suhaas22/Leetcode_problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Suhaas22/Leetcode_problems/tree/master/0368-largest-divisible-subset) |
+| [0475-heaters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Suhaas22/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
