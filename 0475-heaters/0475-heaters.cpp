@@ -2,24 +2,29 @@ class Solution {
 public:
     int findRadius(vector<int>& houses, vector<int>& heaters) {
 
-        int n = heaters.size();
-        int m = houses.size();
+        sort(houses.begin(), houses.end());
+        sort(heaters.begin(), heaters.end());
+
+        int n = houses.size();
+        int m = heaters.size();
 
         int maxradius = INT_MIN;
 
-        for(int i = 0; i < m; i++){
+        int i = 0;
+        int j = 0;
 
-            int minradius = INT_MAX;
+        while(i < n){
 
-            for(int j = 0; j < n; j++){
-
-                minradius = min(minradius, abs(houses[i] - heaters[j]));
+            while((j + 1 < m) && (abs(houses[i] - heaters[j]) >= abs(houses[i] - heaters[j + 1]))){
+                j++;
             }
 
-            maxradius = max(maxradius, minradius);
+            maxradius = max(maxradius, abs(houses[i] - heaters[j]));
+
+            i++;
+
         }
 
-    
         return maxradius;
     }
 };
