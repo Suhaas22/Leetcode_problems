@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Suhaas22/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Suhaas22/Leetcode_problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Suhaas22/Leetcode_problems/tree/master/0322-coin-change) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Suhaas22/Leetcode_problems/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0567-permutation-in-string) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Suhaas22/Leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/Suhaas22/Leetcode_problems/tree/master/0475-heaters) |
 | [0778-swim-in-rising-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0778-swim-in-rising-water) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Suhaas22/Leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -732,4 +736,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Suhaas22/Leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
