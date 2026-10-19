@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/1470-shuffle-the-array) |
 | [1631-path-with-minimum-effort](https://github.com/Suhaas22/Leetcode_problems/tree/master/1631-path-with-minimum-effort) |
 | [1929-concatenation-of-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suhaas22/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Suhaas22/Leetcode_problems/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhaas22/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Suhaas22/Leetcode_problems/tree/master/1631-path-with-minimum-effort) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Suhaas22/Leetcode_problems/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
