@@ -16,9 +16,9 @@ public:
         vector<vector<string>> ans;
 
         for(auto var : freq){
-            vector<string> temp = var.second;
+            
 
-            ans.push_back(temp);
+            ans.push_back(var.second);
         }
 
         return ans;
