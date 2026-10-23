@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Suhaas22/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Suhaas22/Leetcode_problems/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Suhaas22/Leetcode_problems/tree/master/0460-lfu-cache) |
+| [0525-contiguous-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Suhaas22/Leetcode_problems/tree/master/0645-set-mismatch) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Suhaas22/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suhaas22/Leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suhaas22/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
