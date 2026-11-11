@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Suhaas22/Leetcode_problems/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/Suhaas22/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/1929-concatenation-of-array) |
+| [2582-pass-the-pillow](https://github.com/Suhaas22/Leetcode_problems/tree/master/2582-pass-the-pillow) |
 ## String
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Suhaas22/Leetcode_problems/tree/master/1922-count-good-numbers) |
+| [2582-pass-the-pillow](https://github.com/Suhaas22/Leetcode_problems/tree/master/2582-pass-the-pillow) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suhaas22/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Suhaas22/Leetcode_problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
