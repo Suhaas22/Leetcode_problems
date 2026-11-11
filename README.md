@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Suhaas22/Leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
+| [0394-decode-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Suhaas22/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Suhaas22/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Suhaas22/Leetcode_problems/tree/master/0901-online-stock-span) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Suhaas22/Leetcode_problems/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suhaas22/Leetcode_problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Suhaas22/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Suhaas22/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/Suhaas22/Leetcode_problems/tree/master/1922-count-good-numbers) |
 ## Bracket Sequences
 |  |
