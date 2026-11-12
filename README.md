@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Suhaas22/Leetcode_problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suhaas22/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/3693-climbing-stairs-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
