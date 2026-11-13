@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Suhaas22/Leetcode_problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Suhaas22/Leetcode_problems/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/Suhaas22/Leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2582-pass-the-pillow](https://github.com/Suhaas22/Leetcode_problems/tree/master/2582-pass-the-pillow) |
 ## String
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Suhaas22/Leetcode_problems/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Suhaas22/Leetcode_problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3941-password-strength](https://github.com/Suhaas22/Leetcode_problems/tree/master/3941-password-strength) |
 ## Greedy
