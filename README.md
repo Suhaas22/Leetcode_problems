@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suhaas22/Leetcode_problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Suhaas22/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Suhaas22/Leetcode_problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suhaas22/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3693-climbing-stairs-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/3693-climbing-stairs-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suhaas22/Leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Suhaas22/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3941-password-strength](https://github.com/Suhaas22/Leetcode_problems/tree/master/3941-password-strength) |
 ## Linked List
 |  |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Suhaas22/Leetcode_problems/tree/master/1922-count-good-numbers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Suhaas22/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2582-pass-the-pillow](https://github.com/Suhaas22/Leetcode_problems/tree/master/2582-pass-the-pillow) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suhaas22/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Suhaas22/Leetcode_problems/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Suhaas22/Leetcode_problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Suhaas22/Leetcode_problems/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Suhaas22/Leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Suhaas22/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Tree
 |  |
 | ------- |
