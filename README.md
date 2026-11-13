@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Suhaas22/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Suhaas22/Leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 | [2582-pass-the-pillow](https://github.com/Suhaas22/Leetcode_problems/tree/master/2582-pass-the-pillow) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Suhaas22/Leetcode_problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/Suhaas22/Leetcode_problems/tree/master/1922-count-good-numbers) |
 | [2582-pass-the-pillow](https://github.com/Suhaas22/Leetcode_problems/tree/master/2582-pass-the-pillow) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suhaas22/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Suhaas22/Leetcode_problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Suhaas22/Leetcode_problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suhaas22/Leetcode_problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Counting
