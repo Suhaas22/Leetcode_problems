@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Suhaas22/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Suhaas22/Leetcode_problems/tree/master/1922-count-good-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Suhaas22/Leetcode_problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Suhaas22/Leetcode_problems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2582-pass-the-pillow](https://github.com/Suhaas22/Leetcode_problems/tree/master/2582-pass-the-pillow) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suhaas22/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Suhaas22/Leetcode_problems/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -798,4 +799,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Suhaas22/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Suhaas22/Leetcode_problems/tree/master/2443-sum-of-number-and-its-reverse) |
 <!---LeetCode Topics End-->
